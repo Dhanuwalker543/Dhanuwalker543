@@ -2,6 +2,8 @@
  <div style="width:100%;height:0;padding-bottom:56%;position:relative;" align="center"> <img style="blend-mode: screen;" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm1ueGRhcG41MXllam9vejdwajI2cDlycWswdGh4Z21jZGNxdHU2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wiIWl98xLZZS34ReYf/giphy.gif" alt="mysql" width="800"  /></div>
 <h1 align="center">Hi 👋, I'm Dhanu</h1>
 <h3 align="center">A passionate web developer from India</h3>
+<p>- LeetCode: <a href="https://leetcode.com/u/Dhanusubramanir/">https://leetcode.com/u/Dhanusubramanir/</a></p>
+<p>- mail: <a href="walkerdhanu495@gmail.com">walkerdhanu495@gmail.com</a></p>
 <p align="center"><h1>💻 About Me</h1>
 I'm an aspiring Full-Stack Developer currently learning the MERN (MongoDB, Express.js, React.js, Node.js) stack. I'm dedicated to building my skills in web development, with a strong interest in creating dynamic and responsive web applications. I believe in continuous learning and am excited to dive deeper into both frontend and backend technologies.<br>
 
